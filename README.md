@@ -90,7 +90,7 @@ Website- https://code-placement.000webhostapp.com/index.php
 
 ![Screenshot (28)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/8f7345ea-17be-41ca-ab71-98e013d5cb27)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot (29)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/eb71a3bf-60a5-43d9-b4fe-e2ba20ead807)
 
