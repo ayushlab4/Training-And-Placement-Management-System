@@ -57,39 +57,40 @@ Website- https://code-placement.000webhostapp.com/index.php
 
 
 
-![Screenshot 2023-01-13 010557](https://user-images.githubusercontent.com/111070211/212168678-52429e68-17a2-4150-9643-5706f9eadea5.jpg)
+![Screenshot (22)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/97ca7c6b-481a-4d25-a87a-82a2cae22b0b)
 
 - Registration Page For Students and Companies
 
 
-![Screenshot 2023-01-13 010755](https://user-images.githubusercontent.com/111070211/212170065-d00e3794-2f7c-449f-b18c-6767fc73a37e.jpg)
+![Screenshot (23)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/a48cb496-723f-4124-b55a-0fc4de759948)
 
  
  - Login Page
  
 
-![Screenshot 2023-01-13 013254](https://user-images.githubusercontent.com/111070211/212169229-27f3c260-ac8f-480d-a13c-178a2ded1dde.jpg)
+![Screenshot (24)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/30b52c5a-e937-4928-9959-694eeff48dc4)
 
 Admin Login
 
-![image](https://user-images.githubusercontent.com/111070211/212169400-2040c5f6-e110-42b6-bd27-8b7b18e06743.png)
+![Screenshot (25)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/b9bf8320-d34b-4a13-a195-6e4cd898904b)
 
 Admin dashboard
 
 
 
 
-![Screenshot 2023-01-13 014007](https://user-images.githubusercontent.com/111070211/212170495-0bb04ef3-83bb-459b-ba17-71b4256f396d.jpg)
+![Screenshot (26)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/86088c7b-d1c0-49d7-8b76-dee36172dad5)
 
 coordinator dashboard
 
-![Screenshot 2023-01-13 010827](https://user-images.githubusercontent.com/111070211/212170601-a1fe5719-50fa-4275-b4d5-c27d1ca3fe57.jpg)
+![Screenshot (27)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/4dbf0aae-af7a-4e3e-b50c-77590da27b1d)
 
 - contact us
 
-![image](https://user-images.githubusercontent.com/111070211/212170893-dbb903ec-b720-4331-9d6c-22abe6107f2a.png)
 
-![image](https://user-images.githubusercontent.com/111070211/212171069-884f15b9-13a7-4d74-b7d4-0d46d178b359.png)
+![Screenshot (28)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/8f7345ea-17be-41ca-ab71-98e013d5cb27)
+
+![Screenshot (29)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/eb71a3bf-60a5-43d9-b4fe-e2ba20ead807)
 
 
 <br>
