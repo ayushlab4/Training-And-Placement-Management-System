@@ -1,4 +1,4 @@
-# Inhouse Competition - JIIT Optica Student Chapter
+# 7th Semester Group Project - BIT Sindri Student Chapter
 ## Topic-College Realted
 
 ## Team-code stomp
@@ -11,7 +11,7 @@
 
 ## INTRODUCTION
 
-The Placement Management System is a web application for the training and  placement department of our college. This system can be accessed throughout the  organization with proper login credentials. Students will be able to upload their  personal and educational information which will be managed efficiently by the  system. It intends to provide a fast access to the placement procedures and related  activities and ensures to maintain the details of the student secure. The key feature of  this project is that it is a onetime registration enabled system. This project will aid  colleges to practice full IT deployment.
+The Training And Placement Management System is a web application for the training and  placement department of our college. This system can be accessed throughout the  organization with proper login credentials. Students will be able to upload their  personal and educational information which will be managed efficiently by the  system. It intends to provide a fast access to the placement procedures and related  activities and ensures to maintain the details of the student secure. The key feature of  this project is that it is a onetime registration enabled system. This project will aid colleges to practice full IT deployment.
 
 Website- https://code-placement.000webhostapp.com/index.php
 
@@ -32,7 +32,7 @@ Website- https://code-placement.000webhostapp.com/index.php
 - HTML
 - CSS
 - Javascript
-- Reat
+- React
 - Bootstrap
 - PHP
 - Mysql
@@ -99,13 +99,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/atinder11/Placement-Portal).
+3. Download project from github(https://github.com/ayushlab4/Training-And-Placement-Management-System).
 
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/atinder11/Placement-Portal
+ii> git clone https://github.com/ayushlab4/Training-And-Placement-Management-System
 
 4. Extract files in C:\xampp\htdocs.
 
@@ -119,7 +119,7 @@ ii> git clone https://github.com/atinder11/Placement-Portal
 
 9. Browse the file in directory [placement-portal/database/db1.sql].
 
-10. Open any browser and type http://localhost/placement-portal.
+10. Open any browser and type http://localhost/Training-And-Placement-Management-System.
 
 
 
@@ -144,10 +144,12 @@ ii> git clone https://github.com/atinder11/Placement-Portal
 
 ### Team Member
 
-- [Atinder Kumar](https://github.com/atinder11)
+- [Ayush Agarwal](https://github.com/ayushlab4)
 
-- [Suyash Rawat](https://github.com/SuyashRawat)
+- [Naresh Kumar](https://github.com/SuyashRawat)
 
-- [Jatin Tagore](https://github.com/jazz1706)
+- [Subhash Kumar Yadav](https://github.com/jazz1706)
+
+- [Aman Kant](https://github.com/jazz1706)
 
 
