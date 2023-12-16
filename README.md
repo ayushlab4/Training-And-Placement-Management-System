@@ -57,7 +57,7 @@ Website- https://code-placement.000webhostapp.com/index.php
 
 
 
-![Screenshot (22)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/97ca7c6b-481a-4d25-a87a-82a2cae22b0b)
+![Screenshot (22)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/065ae7a1-7f59-4c0f-b85c-47d04a8ffb2a)
 
 - Registration Page For Students and Companies
 
@@ -70,22 +70,22 @@ Website- https://code-placement.000webhostapp.com/index.php
 
 ![Screenshot (24)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/30b52c5a-e937-4928-9959-694eeff48dc4)
 
-Admin Login
+  - Admin Login
 
 ![Screenshot (25)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/b9bf8320-d34b-4a13-a195-6e4cd898904b)
 
-Admin dashboard
+  - Admin dashboard
 
 
 
 
 ![Screenshot (26)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/86088c7b-d1c0-49d7-8b76-dee36172dad5)
 
-coordinator dashboard
+   - coordinator dashboard
 
 ![Screenshot (27)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/4dbf0aae-af7a-4e3e-b50c-77590da27b1d)
 
-- contact us
+   - contact us
 
 
 ![Screenshot (28)](https://github.com/ayushlab4/Training-And-Placement-Management-System/assets/80815483/8f7345ea-17be-41ca-ab71-98e013d5cb27)
