@@ -154,6 +154,6 @@ ii> git clone https://github.com/ayushlab4/Training-And-Placement-Management-Sys
 
 - [Subhash Kumar Yadav](https://github.com/jazz1706)
 
-- [Aman Kant](https://github.com/jazz1706)
+- [Aman Kant](https://github.com/Amankant17)
 
 
